@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://github.com/vanshdhir2026-ai/Result-Summary-Card)](https://your-solution-url.com)
-- Live Site URL: [[Add live site URL here](https://vanshdhir2026-ai.github.io/Result-Summary-Card/)](https://your-live-site-url.com)
+- Solution URL: (https://github.com/vanshdhir2026-ai/Result-Summary-Card)
+- Live Site URL: (https://vanshdhir2026-ai.github.io/Result-Summary-Card/)
 
 ## My process
 
